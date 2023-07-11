@@ -2,7 +2,8 @@
 
 Realizei os quatro desafios como foram propostos pela Supera.
 
-Infos:
+## Infos:
 
 IDE: Eclipse
-Vesão do JDK: 17 LTS
+
+Vesão do JDK: 17 (LTS)
